@@ -1,0 +1,13 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\bin\Release\netcoreapp3.1\TcpListener.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\TcpListener\obj\Release\netcoreapp3.1\TcpListener.genruntimeconfig.cache

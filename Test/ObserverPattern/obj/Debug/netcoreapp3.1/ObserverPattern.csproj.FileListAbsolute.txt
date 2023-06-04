@@ -1,0 +1,13 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\bin\Debug\netcoreapp3.1\ObserverPattern.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\Test\ObserverPattern\obj\Debug\netcoreapp3.1\ObserverPattern.genruntimeconfig.cache

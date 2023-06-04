@@ -1,0 +1,13 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Debug\netcoreapp3.1\MessageClient.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.genruntimeconfig.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.csprojAssemblyReference.cache
