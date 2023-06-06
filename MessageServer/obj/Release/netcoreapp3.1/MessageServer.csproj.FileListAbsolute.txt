@@ -4,10 +4,10 @@ C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\bi
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\bin\Release\netcoreapp3.1\MessageServer.runtimeconfig.dev.json
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\bin\Release\netcoreapp3.1\MessageServer.dll
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\bin\Release\netcoreapp3.1\MessageServer.pdb
-C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.csprojAssemblyReference.cache
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.csproj.CoreCompileInputs.cache
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.AssemblyInfoInputs.cache
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.AssemblyInfo.cs
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.dll
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.pdb
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.genruntimeconfig.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageServer\obj\Release\netcoreapp3.1\MessageServer.GeneratedMSBuildEditorConfig.editorconfig

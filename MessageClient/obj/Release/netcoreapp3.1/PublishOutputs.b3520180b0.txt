@@ -1,0 +1,5 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Release\netcoreapp3.1\publish\MessageClient.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Release\netcoreapp3.1\publish\MessageClient.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Release\netcoreapp3.1\publish\MessageClient.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Release\netcoreapp3.1\publish\MessageClient.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\bin\Release\netcoreapp3.1\publish\MessageClient.pdb

@@ -10,4 +10,5 @@ C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\ob
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.dll
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.pdb
 C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.genruntimeconfig.cache
-C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.csproj.AssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\Messenger\MessageClient\obj\Debug\netcoreapp3.1\MessageClient.GeneratedMSBuildEditorConfig.editorconfig
